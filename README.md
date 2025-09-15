@@ -14,7 +14,7 @@ I'm a software developer passionate about turning ideas into reliable, user-frie
 - 🎨 **Styling**: TailwindCSS (Bootstrap and I are on speaking terms)
 - 🔄 **State Management**: Redux, Zustand, and the never-ending battle against prop drilling
 - 🛣️ **Routing**: React Router
-- ⚡ **Tooling**: VS Code, Bun (faster npm, fewer headaches), Live Server for instant feedback
+- ⚡ **Tooling**: VS Code, Bun (faster npm, fewer headaches).
 
 ---
 
