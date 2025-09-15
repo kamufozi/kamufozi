@@ -65,10 +65,9 @@ Always happy to chat about code, trade war stories with bugs, or argue about sem
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamufozi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamufozi&layout=compact&theme=radical&hide=c++)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamufozi&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kamufozi&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamufozi&theme=radical)
 </div>
