@@ -56,7 +56,7 @@ I'm a software developer passionate about turning ideas into reliable, user-frie
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamufozi&show_icons=true&theme=radical&hide=c++)
+![Your GitHub Stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianGwiza&layout=compact&theme=radical&hide=c%2B%2B])
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamufozi&layout=compact&theme=radical)
 
