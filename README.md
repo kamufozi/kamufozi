@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm a Software Developer from Rwanda 🇷🇼
+# Hey! My name is Fozi
 
 ---
 
