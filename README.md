@@ -59,3 +59,16 @@ I'm always open to collaborating, sharing ideas, or discussing the eternal debat
 Always happy to chat about code, trade war stories with bugs, or argue about semicolons (they’re optional, but so are feelings).
 
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
+---
+
+## My GitHub Stats 📊
+
+<div align="center">
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamufozi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamufozi&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kamufozi&theme=radical)
+
+</div>
