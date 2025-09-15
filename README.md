@@ -40,8 +40,6 @@ I'm a software developer passionate about turning ideas into reliable, user-frie
 - Collaborated in a team, delivered under tight deadlines
 - Discovered that sleep is a luxury in hackathons
 
-### 🌐 Portfolio Website 
-Because every developer needs one (it's practically a rite of passage)
 
 ---
 
