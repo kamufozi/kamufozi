@@ -52,15 +52,6 @@ I'm a software developer passionate about turning ideas into reliable, user-frie
 
 ---
 
-## Let's Connect 🤝
-
-I'm always open to collaborating, sharing ideas, or discussing the eternal debate: tabs vs spaces.
-
-Always happy to chat about code, trade war stories with bugs, or argue about semicolons (they’re optional, but so are feelings).
-
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
----
-
 ## My GitHub Stats 📊
 
 <div align="center">
@@ -70,3 +61,14 @@ Always happy to chat about code, trade war stories with bugs, or argue about sem
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamufozi&layout=compact&theme=radical)
 
 </div>
+
+---
+
+## Let's Connect 🤝
+
+I'm always open to collaborating, sharing ideas, or discussing the eternal debate: tabs vs spaces.
+
+Always happy to chat about code, trade war stories with bugs, or argue about semicolons (they’re optional, but so are feelings).
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+
