@@ -52,16 +52,6 @@ I'm a software developer passionate about turning ideas into reliable, user-frie
 
 ---
 
-## My GitHub Stats 📊
-
-<div align="center">
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamufozi&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## Let's Connect 🤝
 
